@@ -1,0 +1,1 @@
+1. Dat je realni niz A dimenzije n. Sortirati niz A u opadajucem poretku i zameniti mesta prvom i poslednjem elementu niza. Ispisati formiran niz A na standardnom izlazu.
