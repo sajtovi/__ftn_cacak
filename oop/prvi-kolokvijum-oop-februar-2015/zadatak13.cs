@@ -3,6 +3,8 @@
  * Formirati metodu za unos objekta tipa klase Telefon 
  */
 
+using System.Collections.Generic;
+
 
 public class Telefon {
 	
